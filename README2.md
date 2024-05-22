@@ -1,6 +1,3 @@
-# AutoPlotHub
-A repository containing tools for automatic code plotting using GPT, PlantUML, Mermaid.js, and other related technologies.
-
 # AutoCodePlotTools
 
 This repository contains a collection of tools for automatically generating code-based plots using various technologies including GPT, PlantUML, Mermaid.js, and more. These tools aim to simplify the process of creating visual representations of code logic and relationships.
